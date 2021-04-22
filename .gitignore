@@ -1,0 +1,39 @@
+
+#Ignore thumbnails created by Windows
+Thumbs.db
+#Ignore files built by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+.vs/
+#Nuget packages folder
+packages/
+/.idea/.idea.AreaDisplay/.idea/contentModel.xml
+/.idea/.idea.AreaDisplay/.idea/encodings.xml
+/.idea/.idea.AreaDisplay/.idea/indexLayout.xml
+/.idea/.idea.AreaDisplay/.idea/modules.xml
+/.idea/.idea.AreaDisplay/.idea/projectSettingsUpdater.xml
+/.idea/.idea.AreaDisplay/.idea/workspace.xml
+/.idea/.idea.AreaDisplay/riderModule.iml
